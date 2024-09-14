@@ -1,0 +1,13 @@
+*.dll
+out/
+*.log
+*.nupkg
+.forklift/
+obj/
+bin/
+nupkg/
+.idea/
+node_modules/
+wwwroot/lib/
+*.rest
+*.env
